@@ -1,1 +1,2 @@
-# group_repo
+# Group Presentation 
+This repo contains the work that Enyo Fiadonu, Ric Martinez, and Micheal Welch did analyzing sports betting, specifically with the NBA. It also contains a powerpoint presentation going through some of the analysis we did about some commmon basketball stats. We used correlation statistics and heatmaps to see which basketball stats are relavent to which team wins. Then we used this data to create a rudimentary prediction system. We would like to use this as a foundation for further analysis and machine learning
